@@ -2,7 +2,9 @@ language: java
 install: cd prueba;mvn install -DskipTests=true;cd ..
 
 ## do the tests
-script: ant test-hard && cd prueba && mvn test
+script: 
+  - cd prueba
+  - mvn test 
 
 ## a single JVM should be enough.
 ## Adding openjdk7 is probably a sensible thing, but means I have to 
