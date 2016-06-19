@@ -20,3 +20,11 @@
 2016-06-18 21:04:31,746 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kattya Desiderio\Documents\GitHub\Prueba\prueba\src\main\resources
 2016-06-18 21:04:31,749 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-06-18 21:04:31,749 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kattya Desiderio\Documents\GitHub\Prueba\prueba\src\test\resources
+2016-06-18 21:17:50,243 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 21:17:50,245 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kattya Desiderio\Documents\GitHub\Prueba\prueba\src\main\resources
+2016-06-18 21:17:50,247 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 21:17:50,247 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kattya Desiderio\Documents\GitHub\Prueba\prueba\src\test\resources
+2016-06-18 21:21:44,737 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 21:21:44,737 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kattya Desiderio\Documents\GitHub\Prueba\prueba\src\main\resources
+2016-06-18 21:21:44,738 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-18 21:21:44,738 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Kattya Desiderio\Documents\GitHub\Prueba\prueba\src\test\resources
