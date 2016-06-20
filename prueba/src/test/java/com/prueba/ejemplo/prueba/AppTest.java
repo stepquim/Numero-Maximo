@@ -7,17 +7,26 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
-    extends TestCase
+
+import  com.prueba.ejemplo.prueba.*;
+
+
+public class AppTest extends TestCase
 {
     /**
      * Create the test case
      *
      * @param testName name of the test case
      */
-    public AppTest( String testName )
+	
+	public Maximo resultado;
+	public int esperado;
+	
+    public AppTest(  )
     {
-        super( testName );
+    	resultado = new Maximo();
+		this.esperado = 8;
+		resultado.GetMaximo(2, 8, 4); 
     }
 
     /**
@@ -33,6 +42,12 @@ public class AppTest
      */
     public void testApp()
     {
-        assertTrue( true );
+    	int result = resultado.max;
+		assertTrue(result == esperado);
     }
+    
+    
+    
+    
+    
 }

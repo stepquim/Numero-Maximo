@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_7onzsTXAEea7_Yy07BnkXw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_7onzsjXAEea7_Yy07BnkXw" bindingContexts="_7onztDXAEea7_Yy07BnkXw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AppTest.java&quot; tooltip=&quot;prueba/src/test/java/com/prueba/ejemplo/prueba/AppTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/prueba/src/test/java/com/prueba/ejemplo/prueba/AppTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;App.java&quot; tooltip=&quot;prueba/src/main/java/com/prueba/ejemplo/prueba/App.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/prueba/src/main/java/com/prueba/ejemplo/prueba/App.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;App.java&quot; tooltip=&quot;prueba/src/main/java/com/prueba/ejemplo/prueba/App.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/prueba/src/main/java/com/prueba/ejemplo/prueba/App.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;AppTest.java&quot; tooltip=&quot;prueba/src/test/java/com/prueba/ejemplo/prueba/AppTest.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/prueba/src/test/java/com/prueba/ejemplo/prueba/AppTest.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_7onzsjXAEea7_Yy07BnkXw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_73YocjXAEea7_Yy07BnkXw" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
@@ -269,7 +269,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7_A6cDXAEea7_Yy07BnkXw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_6jURIDXDEeaoqe-4Y2W4LQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_7pO30zXAEea7_Yy07BnkXw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_6eSuEDb-Eea444jS9ERRuA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_7pO30zXAEea7_Yy07BnkXw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7_BhgDXAEea7_Yy07BnkXw" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -293,7 +293,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7_CIkDXAEea7_Yy07BnkXw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_6jWGVDXDEeaoqe-4Y2W4LQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_7pNpnDXAEea7_Yy07BnkXw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_6eY0szb-Eea444jS9ERRuA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_7pNpnDXAEea7_Yy07BnkXw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_7_CIkTXAEea7_Yy07BnkXw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
