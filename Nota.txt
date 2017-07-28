@@ -1,2 +1,2 @@
 
-ejemplo de travis
+ejemplo de travis y coveralls
